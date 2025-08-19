@@ -6,7 +6,7 @@
 🎓 Junior @ Stetson University — CS & Applied Math (Data Science) | GPA: 3.73  
 💻 Prev: SWE & Imaging Intern @ UPenn (MRI signal tools in Python + Docker)  
 🌐 SWE Intern @ ProWeb | 📊 Data Analyst @ COPOR  
-🚀 Passionate about Software Engineering, Machine Learning, and Quant Research  
+🚀 Passionate about Software Engineering, Data Science, Machine Learning, and Quant Research  
 
 ---
 
@@ -25,4 +25,4 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
