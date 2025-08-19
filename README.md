@@ -2,10 +2,10 @@
 
 ---
 ## 🧑‍💻 About Me  
-🎓 Junior @ Stetson University — Computer Science & Applied Math (Data Science) | GPA: 3.73  
+🎓 Junior @ Stetson University — **[Computer Science](https://en.wikipedia.org/wiki/Computer_science)** & **[Applied Mathematics](https://en.wikipedia.org/wiki/Applied_mathematics)** (Data Science) | **GPA: 3.73**  
 💻 SWE & Imaging Intern @ UPenn (MRI signal tools in Python + Docker)  
 🌐 SWE Intern @ ProWeb | 📊 Data Analyst @ COPOR  
-🚀 Passionate about Software Engineering, Data Science, Machine Learning, and Quant Research 
+🚀 Passionate about Software Engineering, Data Science, Machine Learning, and Quant Research  
 
 ---
 ## 📜 Certifications
