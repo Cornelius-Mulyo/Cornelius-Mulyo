@@ -6,7 +6,6 @@
 💻 SWE & Imaging Intern @ UPenn (MRI signal tools in Python + Docker)  
 🌐 SWE Intern @ ProWeb | 📊 Data Analyst @ COPOR  
 🚀 Passionate about Software Engineering, Data Science, Machine Learning, and Quant Research  
-
 ---
 ## 📜 Certifications
 - [CodePath Intermediate Technical Interview Prep](https://drive.google.com/file/d/1BwjlafV9Azk-qQl7UxLhrJwWZVpkd_aH/view?usp=drive_link)
@@ -17,7 +16,6 @@
 
 ---
 ## 🛠️ Tech Stack  
-
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
