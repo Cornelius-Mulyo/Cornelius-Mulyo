@@ -34,4 +34,4 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 
 ## 📊 GitHub Stats  
-![Cornelius' GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Cornelius' GitHub Stats]([https://github.com/Cornelius-Mulyo/Water-Quality-Prediction-Model)  
