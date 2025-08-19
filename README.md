@@ -9,12 +9,10 @@
 🚀 Passionate about Software Engineering, Data Science, Machine Learning, and Quant Research  
 
 ---
-
 ## 🌍 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelius-mulyokela-a65366225)  
 
 ---
-
 ## 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
