@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Cornelius Mulyokela  
 
 ---
-
 ## 🧑‍💻 About Me  
 🎓 Junior @ Stetson University — CS & Applied Math (Data Science) | GPA: 3.73  
 💻 SWE & Imaging Intern @ UPenn (MRI signal tools in Python + Docker)  
@@ -9,17 +8,14 @@
 🚀 Passionate about Software Engineering, Data Science, Machine Learning, and Quant Research  
 
 ---
-
 ## 📜 Certifications
 - [CodePath Intermediate Technical Interview Prep](https://drive.google.com/file/d/1BwjlafV9Azk-qQl7UxLhrJwWZVpkd_aH/view?usp=drive_link)
 
 ---
-
 ## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelius-mulyokela-a65366225)  
 
 ---
-
 ## 🛠️ Tech Stack  
 
 **Languages:**  
