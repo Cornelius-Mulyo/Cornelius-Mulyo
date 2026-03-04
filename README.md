@@ -28,14 +28,14 @@ I enjoy building **scalable backend systems, data pipelines, and machine learnin
   Computer Science & Applied Mathematics (Data Science Concentration)  
   **GPA: 3.81**
 
-- 🧠 **Software Engineering & Imaging Intern @ University of Pennsylvania**  
+- **Software Engineering & Imaging Intern @ University of Pennsylvania**  
   Worked on MRI spectroscopy tools using **Python and Docker**
 
-- 💻 **Software Engineering Intern @ ProWeb Ltd**
+- **Software Engineering Intern @ ProWeb Ltd**
 
-- 📊 **Data Analyst @ Center for Public Opinion Research**
+- **Data Analyst @ Center for Public Opinion Research**
 
-- 🚀 Passionate about **Software Engineering, Data Science, Machine Learning, and Quantitative Research**
+- Passionate about **Software Engineering, Data Science, Machine Learning, and Quantitative Research**
 
 ---
 
