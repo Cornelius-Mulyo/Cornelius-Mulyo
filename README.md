@@ -117,11 +117,6 @@ Full-stack platform connecting youth to digital opportunities.
 
 **Tech:** Flask • SQLite • HTML • CSS • Bootstrap
 
----
-
-# Certifications
-
-- CodePath Intermediate Technical Interview Prep
 
 ---
 
