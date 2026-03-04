@@ -5,16 +5,18 @@ Rising Senior studying **Computer Science & Applied Mathematics (Data Science co
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## Interests
 
-![Software Engineering](https://img.shields.io/badge/Software-Engineering-blue)
-![Data Engineering](https://img.shields.io/badge/Data-Engineering-green)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
-![Quantitative Research](https://img.shields.io/badge/Quantitative-Research-purple)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-0052CC)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-2ECC71)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F39C12)
+![Quantitative Research](https://img.shields.io/badge/Quantitative%20Research-8E44AD)
 
 I enjoy building **scalable backend systems, data pipelines, and machine learning applications** that solve real-world problems.
 
@@ -26,49 +28,64 @@ I enjoy building **scalable backend systems, data pipelines, and machine learnin
   Computer Science & Applied Mathematics (Data Science Concentration)  
   **GPA: 3.81**
 
-- **Software Engineering & Imaging Intern @ University of Pennsylvania**  
+- 🧠 **Software Engineering & Imaging Intern @ University of Pennsylvania**  
   Worked on MRI spectroscopy tools using **Python and Docker**
 
-- **Software Engineering Intern @ ProWeb Ltd**
+- 💻 **Software Engineering Intern @ ProWeb Ltd**
 
-- **Data Analyst @ Center for Public Opinion Research**
+- 📊 **Data Analyst @ Center for Public Opinion Research**
 
-- Passionate about **Software Engineering, Data Science, Machine Learning, and Quantitative Research**
+- 🚀 Passionate about **Software Engineering, Data Science, Machine Learning, and Quantitative Research**
 
 ---
 
 # Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+## Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex)
 
-### Data & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-yellow)
+---
 
-### Backend & APIs
-![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+## Web & Backend
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
+![Node](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-### Data Engineering
-![Kafka](https://img.shields.io/badge/Kafka-black?style=flat&logo=apachekafka)
-![Spark](https://img.shields.io/badge/Spark-FDEE21?style=flat&logo=apachespark)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow)
+---
 
-### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## Data Engineering
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-3498DB)
+![SQL](https://img.shields.io/badge/SQL%20Databases-2C3E50)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonec2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-### Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
+---
+
+## Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![R](https://img.shields.io/badge/R%20Statistics-276DC3?logo=r&logoColor=white)
+
+---
+
+## Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau)
 
 ---
 
@@ -82,14 +99,14 @@ Real-time data engineering project that simulates water-quality sensor data and 
 ---
 
 ### MRI Synthetic ML Pipeline
-Machine learning pipeline for synthetic MRI spectroscopy data using FFT preprocessing, feature extraction, and ML modeling. Includes SHAP explainability and FastAPI deployment.
+Machine learning pipeline for synthetic MRI spectroscopy data using FFT preprocessing, feature extraction, and ML modeling.
 
-**Tech:** Python • Scikit-learn • FastAPI • SHAP
+**Tech:** Python • Scikit-learn • SHAP • FastAPI
 
 ---
 
 ### Cassandra Langflow Chatbot
-Apache Cassandra setup using Docker with a sample NoSQL dataset. Includes schema creation, CQL queries, Python database connection, and a context file for Langflow chatbot integration.
+Apache Cassandra setup using Docker with a sample NoSQL dataset including schema creation, CQL queries, and Python database connection.
 
 **Tech:** Cassandra • Docker • Python • NoSQL
 
@@ -98,7 +115,7 @@ Apache Cassandra setup using Docker with a sample NoSQL dataset. Includes schema
 ### YouthLink Web Platform
 Full-stack platform connecting youth to digital opportunities.
 
-**Tech:** FastAPI • React • PostgreSQL
+**Tech:** Flask • SQLite • HTML • CSS • Bootstrap
 
 ---
 
@@ -118,8 +135,8 @@ Full-stack platform connecting youth to digital opportunities.
 
 # Connect With Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)
-![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)
 
 LinkedIn: https://linkedin.com  
 Email: corneliusmulyokela@gmail.com
