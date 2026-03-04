@@ -1,4 +1,14 @@
-# 👋 Hi there, I'm Cornelius Mulyokela  
+## Hi, I'm Cornelius Mulyokela
+
+Computer Science & Applied Mathematics student at Stetson University.
+
+Interested in:
+- Software Engineering
+- Data Engineering
+- Quantitative Research
+- Machine Learning
+
+I enjoy building data systems, ML pipelines, and scalable backend applications.
 
 ---
 ## 🧑‍💻 About Me  
