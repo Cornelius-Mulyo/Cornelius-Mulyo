@@ -102,13 +102,6 @@ Full-stack platform connecting youth to digital opportunities.
 
 ---
 
-### Machine Learning Models
-Repository containing implementations of supervised, unsupervised, and semi-supervised ML models.
-
-**Tech:** Python • Scikit-learn
-
----
-
 # Certifications
 
 - CodePath Intermediate Technical Interview Prep
