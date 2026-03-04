@@ -120,14 +120,6 @@ Full-stack platform connecting youth to digital opportunities.
 
 ---
 
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cornelius-Mulyo&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cornelius-Mulyo&layout=compact)
-
----
-
 # Connect With Me
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)
