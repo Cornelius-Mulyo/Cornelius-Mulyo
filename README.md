@@ -1,44 +1,103 @@
-## Hi, I'm Cornelius Mulyokela
+# Hi, I'm Cornelius Mulyokela
 
-Computer Science & Applied Mathematics student at Stetson University.
+Rising Senior studying **Computer Science & Applied Mathematics (Data Science concentration)** at **Stetson University**.
 
 Interested in:
+
 - Software Engineering
 - Data Engineering
 - Quantitative Research
 - Machine Learning
 
-I enjoy building data systems, ML pipelines, and scalable backend applications.
+I enjoy building **scalable backend systems, data pipelines, and machine learning applications** that solve real-world problems.
 
 ---
-## 🧑‍💻 About Me  
-🎓 Junior @ Stetson University — **[Computer Science](https://en.wikipedia.org/wiki/Computer_science)** & **[Applied Mathematics](https://en.wikipedia.org/wiki/Applied_mathematics)**(**Data Science Concentration**) | **GPA: 3.81**  
-💻 SWE & Imaging Intern @ UPenn (MRI signal tools in Python + Docker)  
-🌐 SWE Intern @ ProWeb | 📊 Data Analyst @ COPOR  
-🚀 Passionate about Software Engineering, Data Science, Machine Learning, and Quant Research  
+
+## About Me
+
+- 🎓 **Rising Senior @ Stetson University** — Computer Science & Applied Mathematics (Data Science Concentration) | GPA: **3.81**
+- 🧠 **Software Engineering & Imaging Intern @ University of Pennsylvania**  
+  Worked on MRI spectroscopy tools using **Python and Docker**
+- 💻 **Software Engineering Intern @ ProWeb Ltd**
+- 📊 **Data Analyst @ Center for Public Opinion Research**
+- 🚀 Passionate about **Software Engineering, Data Science, Machine Learning, and Quantitative Research**
 
 ---
-## 📜 Certifications
-- [CodePath Intermediate Technical Interview Prep](https://drive.google.com/file/d/1BwjlafV9Azk-qQl7UxLhrJwWZVpkd_aH/view?usp=drive_link)
+
+## Tech Stack
+
+### Languages
+Python • Java • C++ • SQL • R
+
+### Data & Machine Learning
+Pandas • NumPy • Scikit-learn • SHAP
+
+### Backend & APIs
+Flask • FastAPI
+
+### Data Engineering
+Kafka • Spark • Airflow
+
+### Tools & Infrastructure
+Docker • Git • Linux • AWS
+
+### Visualization
+Tableau
 
 ---
-## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelius-mulyokela-a65366225)  
+
+## Featured Projects
+
+### Real-Time Environmental Streaming Pipeline
+A real-time data engineering project that simulates environmental sensor readings and streams them into Kafka. Spark Structured Streaming processes the data while Airflow manages workflows.
+
+**Tech:** Kafka, Spark, Airflow, Python
 
 ---
-## 🛠️ Tech Stack  
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
 
-**Web & Backend:**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+### MRI Synthetic ML Pipeline
+Machine learning pipeline for synthetic MRI spectroscopy data using FFT-based preprocessing, feature extraction, and ML modeling. Includes SHAP explainability and FastAPI model deployment.
 
-**Data & Visualization:**  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+**Tech:** Python, Scikit-learn, FastAPI, SHAP
+
+---
+
+### Cassandra Langflow Chatbot
+Apache Cassandra setup using Docker with a sample NoSQL dataset. Includes schema creation, CQL queries, Python database connection, and a context file for Langflow chatbot integration.
+
+**Tech:** Cassandra, Docker, Python, NoSQL
+
+---
+
+### YouthLink Web Platform
+Full-stack platform connecting youth to digital opportunities using modern API architecture.
+
+**Tech:** FastAPI, React, PostgreSQL
+
+---
+
+### Machine Learning Models
+Repository containing implementations of supervised, unsupervised, and semi-supervised machine learning models.
+
+**Tech:** Python, Scikit-learn
+
+---
+
+## Certifications
+
+- CodePath Intermediate Technical Interview Prep
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cornelius-Mulyo&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cornelius-Mulyo&layout=compact)
+
+---
+
+## Connect With Me
+
+LinkedIn: https://linkedin.com  
+Email: your-email@example.com
