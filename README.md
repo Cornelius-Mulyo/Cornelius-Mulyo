@@ -87,39 +87,6 @@ I enjoy building **scalable backend systems, data pipelines, and machine learnin
 ## Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau)
 
----
-
-# Featured Projects
-
-### Real-Time Environmental Streaming Pipeline
-Real-time data engineering project that simulates water-quality sensor data and streams it into Kafka. Spark Structured Streaming processes the data while Airflow manages workflows.
-
-**Tech:** Kafka • Spark • Airflow • Python
-
----
-
-### MRI Synthetic ML Pipeline
-Machine learning pipeline for synthetic MRI spectroscopy data using FFT preprocessing, feature extraction, and ML modeling.
-
-**Tech:** Python • Scikit-learn • SHAP • FastAPI
-
----
-
-### Cassandra Langflow Chatbot
-Apache Cassandra setup using Docker with a sample NoSQL dataset including schema creation, CQL queries, and Python database connection.
-
-**Tech:** Cassandra • Docker • Python • NoSQL
-
----
-
-### YouthLink Web Platform
-Full-stack platform connecting youth to digital opportunities.
-
-**Tech:** Flask • SQLite • HTML • CSS • Bootstrap
-
-
----
-
 # Connect With Me
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)
