@@ -8,10 +8,8 @@
   Computer Science & Applied Mathematics (Data Science Concentration)  
   **GPA: 3.81**
 
-- Passionate about **Software Engineering, Data Science, Machine Learning, and Quantitative Research**
-- I enjoy building **scalable backend systems, data pipelines, and machine learning applications** that solve real-world problems.
-
-
+- Passionate about **Software Engineering, **Data Engineering**, Data Science, Machine Learning, and Quantitative Research**
+- I enjoy designing **scalable backend systems, data pipelines, and machine learning applications** that solve real-world problems
 ---
 
 # Tech Stack
