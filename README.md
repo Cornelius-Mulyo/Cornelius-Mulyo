@@ -2,31 +2,15 @@
 
 ---
 
-## Interests
-
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-0052CC)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-2ECC71)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F39C12)
-![Quantitative Research](https://img.shields.io/badge/Quantitative%20Research-8E44AD)
-
-I enjoy building **scalable backend systems, data pipelines, and machine learning applications** that solve real-world problems.
-
----
-
 # About Me
 
 - 🎓 **Rising Senior @ Stetson University**  
   Computer Science & Applied Mathematics (Data Science Concentration)  
   **GPA: 3.81**
 
-- **Software Engineering & Imaging Intern @ University of Pennsylvania**  
-  Worked on MRI spectroscopy tools using **Python and Docker**
-
-- **Software Engineering Intern @ ProWeb Ltd**
-
-- **Data Analyst @ Center for Public Opinion Research**
-
 - Passionate about **Software Engineering, Data Science, Machine Learning, and Quantitative Research**
+- I enjoy building **scalable backend systems, data pipelines, and machine learning applications** that solve real-world problems.
+
 
 ---
 
