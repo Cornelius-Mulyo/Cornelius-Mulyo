@@ -4,7 +4,7 @@
 
 # About Me
 
-- 🎓 **Rising Senior @ Stetson University**  
+- 🎓 **Senior @ Stetson University**  
   Computer Science & Applied Mathematics (Data Science Concentration)  
   **GPA: 3.83**
 
