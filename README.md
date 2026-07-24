@@ -4,7 +4,7 @@
 
 # About Me
 
-- 🎓 **Stetson University**  
+- **Stetson University**  
   Computer Science & Applied Mathematics (Data Science Concentration)  
   **GPA: 3.83**
 
